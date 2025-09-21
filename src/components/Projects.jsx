@@ -2,8 +2,7 @@ import React from "react";
 import { AiOutlineLink, AiFillGithub } from "react-icons/ai";
 import Chatapp from "../assets/chatapp.png";
 import Extension from "../assets/chrome-extension.png"
-import BlogWeb from "../assets/BlogWeb.png";
-import Di from "../assets/Discord.png";
+import BlogWeb from "../assets/Blogweb.png";
 
 const Cards = ({ image, name, tech, link, github, description }) => {
   return (
