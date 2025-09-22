@@ -58,13 +58,13 @@ const Education = () => {
             type="12th Grade – Vidhydhish Vidhyaankul"
             time="2020-2021"
             place="Vidhydhish Vidhyaankul"
-            info="Completed 12th grade with 96%, securing rank 683 in ACPC exams."
+            info="Completed 12th grade with 90%, securing rank 683 in ACPC exams."
           />
           <Details
             type="10th Grade – Swaminarayan Gurukul"
             time="2018-2019"
             place="Swaminarayan Gurukul"
-            info="Completed 10th grade with 99.97%."
+            info="Completed 10th grade with 99.97 percentile."
           />
         </ul>
       </div>
