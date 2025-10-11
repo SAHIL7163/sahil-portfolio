@@ -50,7 +50,7 @@ const Projects = () => {
             image={Chatapp}
             name="Talksy Social video Platform"
             tech="React | Socket.io | Nodejs | MongoDB | Redis | Kafka | AI-Chatbot | JWT-Auth | Cloudinary"
-            link="https://talksy.vercel.app/"
+            link="https://talksy-frontend.vercel.app/"
             github="https://github.com/SAHIL7163/Talksy-Video-Chat"
             description="Talksy is a real-time social video platform that enables users to connect through friend requests, threads, replies, messaging, status updates, video calls, and file sharing, all with 32 customizable themes. The platform is designed for high scalability using a pub/sub architecture powered by Apache Kafka and Redis. It also features an AI-powered chat system that delivers context-aware responses, making interactions smarter and more engaging"
           />
