@@ -51,14 +51,14 @@ const Projects = () => {
             name="Talksy Social video Platform"
             tech="React | Socket.io | Nodejs | MongoDB | Redis | Kafka | AI-Chatbot | JWT-Auth | Cloudinary"
             link="https://talksy-frontend.vercel.app/"
-            github="https://github.com/SAHIL7163/Talksy-Video-Chat"
+            github="https://github.com/SAHIL7163/talksy-microservices"
             description="Talksy is a scalable real-time social video platform that enables seamless messaging, video calling, file sharing, status updates, and threaded discussions, paired with 32 customizable UI themes for a personalized experience. Built on a Dockerized microservices architecture with an NGINX reverse proxy, the platform ensures efficient routing and load balancing. Real-time communication is powered by Apache Kafka, reducing message latency from 120ms to 30ms, while Redis Pub/Sub keeps multiple backend servers perfectly synchronized. Talksy also provides secure user authentication and media handling through AWS S3 presigned URLs for protected uploads. The platform features a RAG-based AI assistant integrated with OpenAI, Kafka, and a vector database, enabling intelligent, context-aware responses to enhance user interaction."
           />
           <Cards
             image={BlogWeb}
             name="Daily Blog WebApp"
             tech="React | Nodejs | Express | MongoDB | JWT-Auth | Cloudinary | Bootstrap | Payment Gateway"
-            github="https://github.com/SAHIL7163/MERN-BLOG-SITE"
+            github="https://github.com/SAHIL7163/DailyDoseBlog"
             link="https://blogsite-3gsy.onrender.com/"
             description="Developed a full-stack, responsive blog platform featuring JWT-based authentication and Google Sign-In for seamless login, with role-based access control enabling users to create, edit, or delete blogs according to their role. Enhanced engagement through likes, dislikes, comments, and file uploads, while integrating Stripe payments for subscription-based premium content. Implemented PersistLogin to maintain user sessions and improve user experience. The platform is built using HTML, CSS, Bootstrap, React, Node.js, Express, and MongoDB,.
 "
